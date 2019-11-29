@@ -1,0 +1,14 @@
+{
+  "name": "pino-express-failure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test1": "node test1.js",
+    "test2": "node test2.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "pino-http": "4.3.0"
+  }
+}
